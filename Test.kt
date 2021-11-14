@@ -1,1 +1,4 @@
-fun helloWorld() = "Hello world"
+object Test {
+    fun helloWorld(name : String) = "Hello world $name"
+}
+
