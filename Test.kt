@@ -1,4 +1,4 @@
 object Test {
-    fun helloWorld() = "Hello world"
+    fun helloWorld(name : String) = "Hello world $name"
 }
 
